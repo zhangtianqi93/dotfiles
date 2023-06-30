@@ -1,0 +1,26 @@
+font:
+  normal:
+    family: OperatorMono NF
+    style: Book
+
+  bold:
+    family: OperatorMono NF
+    style: Medium
+
+  italic:
+    family: OperatorMono NF
+    style: Book Italic
+
+  bold_italic:
+    family: OperatorMono NF
+    style: Medium Italic
+
+  size: 17.0
+
+  offset:
+    x: 0
+    y: 0
+
+  glyph_offset:
+    x: 0
+    y: 0
