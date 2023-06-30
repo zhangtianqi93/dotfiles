@@ -1,7 +1,7 @@
 {
     "always_show_minimap_viewport": true,
     "bold_folder_labels": true,
-    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
     "draw_white_space":
     [
         "all"
@@ -15,7 +15,8 @@
     ],
     "font_size": 15,
     "ignored_packages":
-    [],
+    [
+    ],
     "indent_guide_options":
     [
         "draw_normal",
@@ -24,9 +25,9 @@
     "line_padding_bottom": 3,
     "line_padding_top": 3,
     "overlay_scroll_bars": "enabled",
-    "theme": "Material-Theme.sublime-theme",
+    "theme": "Material-Theme-Palenight.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_automatic_white_space": true,
     "trim_only_modified_white_space": false,
-    "trim_trailing_white_space_on_save": "all"
+    "trim_trailing_white_space_on_save": "all",
 }
