@@ -1,6 +1,6 @@
 import:
   - ~/.config/alacritty/themes/dracula.yml
-  - ~/.config/alacritty/fonts/operator-nf.yml
+  - ~/.config/alacritty/fonts/operator-ssm.yml
 
 env:
   TERM: xterm-256color
@@ -36,8 +36,13 @@ cursor:
 
   vi_mode_style: Block
 
+# shell:
+#   program: /bin/zsh
+#   args:
+#     - --login
+
 shell:
-  program: /bin/zsh
+  program: /opt/homebrew/bin/fish
   args:
     - --login
 
@@ -50,3 +55,7 @@ hints:
       mouse:
         enabled: true
         mods: None
+
+key_bindings:
+  - { key: T, mods: Command, chars: "\x02c" } # C-b c
+  - { key: D, mods: Command, chars: "\x02|" } # C-b |

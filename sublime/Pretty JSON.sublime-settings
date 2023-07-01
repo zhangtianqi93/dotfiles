@@ -1,3 +1,6 @@
 {
+    "brace_newline": false,
+    "bracket_newline": false,
+    "ensure_ascii": false,
     "sort_keys": true
 }

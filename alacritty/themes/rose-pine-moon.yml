@@ -1,0 +1,74 @@
+colors:
+  primary:
+    foreground: "#E0DEF4"
+    background: "#232136"
+    dim_foreground: "#908CAA"
+    bright_foreground: "#E0DEF4"
+
+  cursor:
+    text: "#E0DEF4"
+    cursor: "#56526E"
+
+  vi_mode_cursor:
+    text: "#E0DEF4"
+    cursor: "#56526E"
+
+  search:
+    matches:
+      foreground: "#908CAA"
+      background: "#393552"
+
+    focused_match:
+      foreground: "#232136"
+      background: "#EA9A97"
+
+  hints:
+    start:
+      foreground: "#908CAA"
+      background: "#2A273F"
+
+    end:
+      foreground: "#6E6A86"
+      background: "#2A273F"
+
+  line_indicator:
+    foreground: None
+    background: None
+
+  footer_bar:
+    foreground: "#E0DEF4"
+    background: "#2A273F"
+
+  selection:
+    text: "#E0DEF4"
+    background: "#44415A"
+
+  normal:
+    black: "#393552"
+    red: "#EB6F92"
+    green: "#3E8FB0"
+    yellow: "#F6C177"
+    blue: "#9CCFD8"
+    magenta: "#C4A7E7"
+    cyan: "#EA9A97"
+    white: "#E0DEF4"
+
+  bright:
+    black: "#6E6A86"
+    red: "#EB6F92"
+    green: "#3E8FB0"
+    yellow: "#F6C177"
+    blue: "#9CCFD8"
+    magenta: "#C4A7E7"
+    cyan: "#EA9A97"
+    white: "#E0DEF4"
+
+  dim:
+    black: "#6E6A86"
+    red: "#EB6F92"
+    green: "#3E8FB0"
+    yellow: "#F6C177"
+    blue: "#9CCFD8"
+    magenta: "#C4A7E7"
+    cyan: "#EA9A97"
+    white: "#E0DEF4"

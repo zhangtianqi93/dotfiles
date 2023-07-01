@@ -1,0 +1,26 @@
+font:
+  normal:
+    family: SFMono Nerd Font
+    style: Medium
+
+  italic:
+    family: SFMono Nerd Font
+    style: Medium Italic
+
+  bold:
+    family: SFMono Nerd Font
+    style: Heavy
+
+  bold_italic:
+    family: SFMono Nerd Font
+    style: Heavy Italic
+
+  size: 17.0
+
+  offset:
+    x: 0
+    y: 9
+
+  glyph_offset:
+    x: 0
+    y: 3

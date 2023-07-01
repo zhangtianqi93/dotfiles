@@ -1,0 +1,26 @@
+font:
+  normal:
+    family: Operator Mono SSm Nerd Lig
+    style: Book
+
+  bold:
+    family: Operator Mono SSm Nerd Lig
+    style: Medium
+
+  italic:
+    family: Operator Mono SSm Nerd Lig
+    style: Book Italic
+
+  bold_italic:
+    family: Operator Mono SSm Nerd Lig
+    style: Medium Italic
+
+  size: 17.0
+
+  offset:
+    x: 0
+    y: 9
+
+  glyph_offset:
+    x: 0
+    y: 3
