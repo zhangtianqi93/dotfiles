@@ -12,7 +12,8 @@
         "subpixel_antialias"
     ],
     "font_size": 15,
-    "ignored_packages": [],
+    "ignored_packages": [
+    ],
     "indent_guide_options": [
         "draw_normal",
         "draw_active"
@@ -24,5 +25,5 @@
     "translate_tabs_to_spaces": true,
     "trim_automatic_white_space": true,
     "trim_only_modified_white_space": false,
-    "trim_trailing_white_space_on_save": "all"
+    "trim_trailing_white_space_on_save": "all",
 }

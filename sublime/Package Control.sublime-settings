@@ -2,12 +2,13 @@
     "bootstrapped": true,
     "http_proxy": "http://127.0.0.1:1087",
     "https_proxy": "http://127.0.0.1:1087",
-    "in_process_packages": [],
+    "in_process_packages": [
+    ],
     "installed_packages": [
         "A File Icon",
         "fish",
         "Material Theme",
         "Package Control",
         "Pretty JSON"
-    ]
+    ],
 }
