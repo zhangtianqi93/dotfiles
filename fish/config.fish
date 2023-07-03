@@ -7,11 +7,11 @@ set -g fish_greeting
 set -gx GOPATH $HOME/Work/code/go
 set -gx STARSHIP_CONFIG $HOME/.config/starship/starship.toml
 
-# set fish_vi_cursor insert
-# set fish_cursor_default block
-# set fish_cursor_insert line
-# set fish_cursor_replace_one underscore
-# set fish_cursor_visual block
+set fish_vi_cursor insert
+set fish_cursor_default block
+set fish_cursor_insert line
+set fish_cursor_replace_one underscore
+set fish_cursor_visual block
 
 # path
 fish_add_path $GOPATH/bin
