@@ -4,7 +4,11 @@ end
 
 set -g fish_greeting
 
+set -gx GO111MODULE on
+set -gx GO111MODULE off
+set -gx GOPROXY https://goproxy.cn,direct
 set -gx GOPATH $HOME/Work/code/go
+
 set -gx STARSHIP_CONFIG $HOME/.config/starship/starship.toml
 
 set fish_vi_cursor insert
